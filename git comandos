@@ -1,0 +1,22 @@
+Git es un sistema de control de versiones (local)
+github es un sitema para alojar de nuestros repositorios en la nube(remota)
+
+instalar git: sudo apt-get install git
+
+comandos basicos de git
+
+http://www.senin.org/wp-content/uploads/2016/08/index1@2x.png
+
+init: inicializamos git en nuestro proyecto
+add: envia los archivos de nuestro working directory al staging area 
+status: en que estado estan nuestros archivos
+commit/comitear: confirmar los cambios realizados
+push/pushear: envia nuestro commit a un repositorio remoto (git push origin master)
+pull/pulear: trae los commit actualizados del repositorio remoto
+Clone/Clonar : clona un repositorio
+
+branch: rama dentro del proyecto
+fork: ramificacion realizada por un colaborador externo por fuera del proyecto
+merge/mergear: Mezcla los branches del proyecto
+
+

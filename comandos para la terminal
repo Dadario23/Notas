@@ -1,0 +1,16 @@
+desinstalar ruby
+
+aptitude purge ruby
+
+Instalar rbenv y dependencias
+Primero, actualice su lista de paquetes:
+
+sudo apt update
+A continuación, instale las dependencias necesarias para instalar Ruby:
+
+sudo apt install autoconf bison build-essential libssl-dev libyaml-dev libreadline6-dev zlib1g-dev libncurses5-dev libffi-dev libgdbm5 libgdbm-dev
+
+
+
+
+
